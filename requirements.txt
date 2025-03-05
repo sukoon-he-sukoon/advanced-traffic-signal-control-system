@@ -1,1 +1,1 @@
-numpy pandas scikit-learn seaborn torch
+numpy pandas scikit-learn seaborn torch matplotlib
